@@ -20,17 +20,26 @@
 	</script>
 
 	<!-- Main Page -->
-	<div class="container" style="height:100%;">
+	<div class="container">
 		<div class="row"></div>
-		<h1 class="display-3">2019-2020 Officers</h1>
-		<hr class="style14">
+		<h1 class="display-3">2020-2021 Officers</h1>
+   	<hr class="style14">
 	</div>
+
+	<div>
+    <ul>
+      <li>Presidents: Vikas Thoutam and Erica Miller</li>
+      <li>Vice Presidents: Sahil Chowdhury and Amogha Pokkulandra</li>
+      <li>Secretary: Phoebe Lin</li>
+      <li>Novice and Advanced Coaches: Eric Peng and Aaroh Sharma</li>
+      <li>Historian: Suhani Goswami</li>
+    </ul>
+    </div>
 
 	<!-- Footer -->
 	<?php 
 		include 'res/footer.php';
 	 ?>
-
 	<!-- Scripts -->
 	
 	<!-- Bootstrap CDN -->
