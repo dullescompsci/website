@@ -25,6 +25,10 @@
 	<div class="container" style="height:100%;">
 		<h1 class="display-3">Contact Us</h1>
 		<hr class="style14">
+		<ul class = "contact-info">
+			<li>Text @dhscs to 81010 to join Remind</li>
+			<li>Email us at <a href="dullescomputerscience@gmail.com">dullescomputerscience@gmail.com</a></li>
+		</ul>
 	</div>
 
 	<!-- Footer -->

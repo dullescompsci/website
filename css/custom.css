@@ -169,3 +169,8 @@ hr.style18:before {
 	font-size: 30px;
 	list-style: none;
 }
+/*for contact info in contact.php*/
+.contact-info{
+	list-style: none;
+	font-size: 20px;
+}
