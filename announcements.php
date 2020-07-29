@@ -39,28 +39,25 @@
 					<br>
 						<h3>Fish Camp 2018</h3>
 							<hr class="style2">
-							<p class="small lead">2 August 2018</p>
+							<p class="small lead">29 July 2020</p>
 							<hr class="style12">
 							<p class="lead">
-								Fish Camp will be held on 11 August 2018 this year. See you there!
+								Fish Camp will be held on 30 July 2020 this year. See you there!
 							</p>
 						<hr class="style3">
 						<br>
-					  	<h3>New Officers for the year 2018-2019</h3>
+					  	<h3>New Officers for the year 2020-2021</h3>
 					  		<hr class="style2">
-							<p class="small lead">24 May 2018</p>
+							<p class="small lead">29 July 2020</p>
 							<hr class="style12">
 							<p class="lead">
 								The following members have been appointed officers for the upcoming school year ending 24 May 2019.
 								<ul class="list-group-flush">
-									<li class="list-group-item-text lead"><em>Presidents:</em> Adil Rasiyani (12) and Kushal Dandamudi (12)</li>
-									<li class="list-group-item-text lead"><em>Vice President:</em> Shree Mohan (12)</li>
-									<li class="list-group-item-text lead"><em>Secretary:</em> Dhruv Patel (12)</li>
-									<li class="list-group-item-text lead"><em>Director:</em> Satwik Misra (11)</li>
-									<li class="list-group-item-text lead"><em>Network Administrator:</em> Abin Antony (12)</li>
-									<li class="list-group-item-text lead"><em>Advanced Coach:</em> Ethan Zahid (11)</li>
-									<li class="list-group-item-text lead"><em>Novice Coach:</em> Krish Singal (11)</li>
-									<li class="list-group-item-text lead"><em>Historian:</em> Pavan Motupalli (12)</li>
+									<li class="list-group-item-text lead"><em>Presidents:</em> Vikas Thoutam (12) and Erica Miller (12)</li>
+									<li class="list-group-item-text lead"><em>Vice Presidents:</em> Sahil Chowdhury (12) and Amogha Pokkulandra (12)</li>
+									<li class="list-group-item-text lead"><em>Secretary:</em> Phoebe Lin (12)</li>
+									<li class="list-group-item-text lead"><em>Advanced & Novice Coaches:</em> Eric Peng (11) and Aaroh Sharma (11)</li>
+									<li class="list-group-item-text lead"><em>Historian:</em> Suhani Goswami (12)</li>
 								</ul>
 							</p>
 						<hr class="style3">
