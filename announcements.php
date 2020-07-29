@@ -37,7 +37,7 @@
 				<div data-spy="scroll" data-target="#list-announ" data-offset="0" class="scrollspy-example">
 					<h4 id="list-item-1" class="display-4">General Announcements</h4>
 					<br>
-						<h3>Fish Camp 2018</h3>
+						<h3>Fish Camp 2020</h3>
 							<hr class="style2">
 							<p class="small lead">29 July 2020</p>
 							<hr class="style12">

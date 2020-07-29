@@ -45,7 +45,7 @@
 					  <hr/>
 					  <h3>What to Bring to Club</h3>
 						  <p class="lead">
-						  	<ul id="what-to-bring-list" class="list-group-flush">
+						  	<ul id="what-to-bring-list" class="list-group-flush" style= "color:#000000">
 						  		<li class="list-group-item lead">Travel permission slip (found below)</li>
 								<li class="list-group-item lead">A flash drive to store materials</li>
 								<li class="list-group-item lead">A laptop, if you'd prefer to use it. (Highly recommended)</li>
@@ -54,10 +54,10 @@
 					  <h3>Contest Information</h3>
 						  <p class="lead">
 						  	<ul id=contest-info-main class="list-group-flush">
-						  		<li class="list-group-item lead">Contest people should expect to arrive at Dulles around 6:30 am. We usually return before 3:00 pm.</li>
+						  		<li class="list-group-item lead" style= "color: #000000">Contest people should expect to arrive at Dulles around 6:30 am. We usually return before 3:00 pm.</li>
 						  		<li class="list-group-item lead">
 						  			You will need:
-						  			<ul id="contest-info-list" class="list-group-flush">
+						  			<ul id="contest-info-list" class="list-group-flush" style= "color: #000000">
 								  		<li class="list-group-item-text">A laptop with an IDE (IntelliJ or Eclipse) and the JDK</li>
 								  		<li class="list-group-item-text">Basic understanding of Java</li>
 								  		<li class="list-group-item-text">A reference book. We have a few to choose from but feel free to bring your own.</li>
@@ -66,7 +66,7 @@
 								  		</li>
 								  	</ul>
 								</li>
-								<li class="list-group-item lead">There are two parts to most computer science contests we participate in:
+								<li class="list-group-item lead" style= "color: #000000">There are two parts to most computer science contests we participate in:
 									<ul id="contest-info-2-list" class="list-group-flush lead">
 										<li class="list-group-item">
 											<p>
@@ -88,9 +88,9 @@
 					<h4 id="list-item-2" class="display-4">Java Materials</h4> 
 					  	<p></p>
 					  	<h3>Things needed to Code</h3>
-						  	<p class="lead">
-						  		<ul class="list-group-flush lead">
-						  			<li class="list-group-item">
+						  	<p class="lead" >
+						  		<ul class="list-group-flush lead" style= "color: #000000">
+						  			<li class="list-group-item" >
 						  				1. <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" class="badge badge-primary" target="_blank">
 						  					Java Development Kit
 						  				</a>
@@ -101,7 +101,7 @@
 						  	</p>
 					  	<h3>Learning Materials</h3>
 						  	<p>
-						  		<ul class="list-group-flush lead">
+						  		<ul class="list-group-flush lead" style= "color: #000000">
 						  			<li class="list-group-item"><strong>Beginner</strong>: Use the expo materials provided in class or copy of Big Java which you can check out from Ms. Coffman.</li>
 						  			<li class="list-group-item"><strong>Intermediate</strong>: Take <a href="" class="badge badge-primary">Algorithms, Part 1</a> and <a href="" class="badge badge-primary">Algorithms, Part 2</a> on Coursera.</li>
 						  			<li class="list-group-item"><strong>Recommended Books</strong>:
@@ -119,7 +119,7 @@
 						  					<li> <a href="" class="badge badge-primary" target="_blank">Project Euler</a> is a good site with some challenging problems. Send us your friend key when you register.</li>
 						  				</ul>
 						  			</li>
-						  			<li>Documentation for all Java Classes: <a href="https://docs.oracle.com/javase/10/docs/api/allclasses-noframe.html" class="badge badge-primary">Java Doc</a></li>
+						  			<li style= "color: #fff">Documentation for all Java Classes: <a href="https://docs.oracle.com/javase/10/docs/api/allclasses-noframe.html" class="badge badge-primary">Java Doc</a></li>
 						  		</ul>
 						  	</p>
 				  	<h4 id="list-item-3" class="display-4">Important Documents</h4>
@@ -127,13 +127,13 @@
 						  	<p class="lead">
 						  		<ul class="list-group-flush lead">
 						  			<em>The following documents are required to be turned in each school year if you wish to be a club memeber.</em>
-						  			<li class="list-group-item">&#128462; <a href="files/transportation-form.pdf" class="badge badge-success" download>Transportation Form</a></li>
-						  			<li class="list-group-item">&#128462; <a href="files/medical-form.pdf" class="badge badge-success" download>Medical Form</a></li>
+						  			<li class="list-group-item" style= "color: #000000">&#128462; <a href="files/transportation-form.pdf" class="badge badge-success" download>Transportation Form</a></li>
+						  			<li class="list-group-item" style= "color: #000000">&#128462; <a href="files/medical-form.pdf" class="badge badge-success" download>Medical Form</a></li>
 						  		</ul>
 						  	</p>
 						<h3>Misc Files and Links</h3>
 							<p class="lead">
-								<ul class="list-group-flush lead">
+								<ul class="list-group-flush lead" style= "color: #000000">
 									<li class="list-group-item">&#128462; <a href="files/template.java" class="badge badge-success">Code Template</a></li>
 								</ul>
 							</p>
