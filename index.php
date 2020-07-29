@@ -46,7 +46,7 @@
 					<p class="lead text-justify">Official meetings are every <strong>Tuesday</strong> and <strong>Thursday</strong>, but you can come any day Ms. Coffman's in to catch up or get ahead.
 
 					The meeting are always in <strong>Ms. Coffman's room (KLAB)</strong>.  This room is to the left of library.</p>
-					<a href="#" class="btn btn-primary">Click Here to Get Started!</a>
+					<a href="resources.php" class="btn btn-primary">Click Here to Get Started!</a>
 
 				</div>
 			 </div>

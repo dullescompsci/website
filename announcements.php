@@ -53,11 +53,11 @@
 							<p class="lead">
 								The following members have been appointed officers for the upcoming school year ending 24 May 2019.
 								<ul class="list-group-flush">
-									<li class="list-group-item-text lead"><em>Presidents:</em> Vikas Thoutam (12) and Erica Miller (12)</li>
-									<li class="list-group-item-text lead"><em>Vice Presidents:</em> Sahil Chowdhury (12) and Amogha Pokkulandra (12)</li>
-									<li class="list-group-item-text lead"><em>Secretary:</em> Phoebe Lin (12)</li>
-									<li class="list-group-item-text lead"><em>Advanced & Novice Coaches:</em> Eric Peng (11) and Aaroh Sharma (11)</li>
-									<li class="list-group-item-text lead"><em>Historian:</em> Suhani Goswami (12)</li>
+									<li class="list-group-item-text lead"><em>Presidents:</em> Vikas Thoutam (11) and Erica Miller (12)</li>
+									<li class="list-group-item-text lead"><em>Vice Presidents:</em> Sahil Chowdhury (10) and Amogha Pokkulandra (11)</li>
+									<li class="list-group-item-text lead"><em>Secretary:</em> Phoebe Lin (11)</li>
+									<li class="list-group-item-text lead"><em>Advanced & Novice Coaches:</em> Eric Peng (10) and Aaroh Sharma (11)</li>
+									<li class="list-group-item-text lead"><em>Historian:</em> Suhani Goswami (10)</li>
 								</ul>
 							</p>
 						<hr class="style3">

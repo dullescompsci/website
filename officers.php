@@ -27,7 +27,7 @@
 	</div>
 
 	<div>
-    <ul>
+    <ul class= "officer-list">
       <li>Presidents: Vikas Thoutam and Erica Miller</li>
       <li>Vice Presidents: Sahil Chowdhury and Amogha Pokkulandra</li>
       <li>Secretary: Phoebe Lin</li>
