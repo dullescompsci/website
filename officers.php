@@ -1,6 +1,7 @@
 <!--
 	Dulles High School Computer Science Club 2018-2019
-	Written By Adil Rasiyani, President
+	Originally Written By Adil Rasiyani, President
+        Modified By Vikas Thoutam, President (2021-2022)
 	Using Bootstrap
 -->
 
@@ -28,11 +29,11 @@
 
 	<div>
     <ul class= "officer-list">
-      <li>Presidents: Vikas Thoutam and Erica Miller</li>
-      <li>Vice Presidents: Sahil Chowdhury and Amogha Pokkulandra</li>
-      <li>Secretary: Phoebe Lin</li>
-      <li>Novice and Advanced Coaches: Eric Peng and Aaroh Sharma</li>
-      <li>Historian: Suhani Goswami</li>
+      <li>Presidents: Vikas Thoutam and Sahil Chowdhury</li>
+      <li>Vice Presidents: Amogha Pokkulandra and Dylan Yu</li>
+      <li>Secretary: Suhani Goswami</li>
+      <li>Novice and Advanced Coaches: Videet Mehta, Athulya Saravanakumar, and Rushil Shah</li>
+      <li>Historian: Rishindra Davuluri</li>
     </ul>
     </div>
 
