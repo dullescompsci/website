@@ -14,7 +14,7 @@ var navBar = React.createElement(
             ),
             React.createElement(
                 "a",
-                { href: "index.php", "class": "navbar-brand" },
+                { href: "index.html", "class": "navbar-brand" },
                 "DHS CS"
             )
         ),
@@ -29,7 +29,7 @@ var navBar = React.createElement(
                     { "class": "nav-item", id: "nav-bar-home" },
                     React.createElement(
                         "a",
-                        { "class": "nav-link", href: "index.php" },
+                        { "class": "nav-link", href: "index.html" },
                         "Home"
                     )
                 ),
@@ -38,7 +38,7 @@ var navBar = React.createElement(
                     { "class": "nav-item", id: "nav-bar-announ" },
                     React.createElement(
                         "a",
-                        { "class": "nav-link", href: "announcements.php" },
+                        { "class": "nav-link", href: "announcements.html" },
                         "Announcements"
                     )
                 ),
@@ -47,7 +47,7 @@ var navBar = React.createElement(
                     { "class": "nav-item", id: "nav-bar-resources" },
                     React.createElement(
                         "a",
-                        { "class": "nav-link", href: "resources.php" },
+                        { "class": "nav-link", href: "resources.html" },
                         "Resources"
                     )
                 ),
@@ -56,7 +56,7 @@ var navBar = React.createElement(
                     { "class": "nav-item", id: "nav-bar-archive" },
                     React.createElement(
                         "a",
-                        { "class": "nav-link", href: "archive.php" },
+                        { "class": "nav-link", href: "archive.html" },
                         "Archive"
                     )
                 ),
@@ -73,17 +73,17 @@ var navBar = React.createElement(
                         { "class": "dropdown-menu", "aria-labelledby": "navbarDropdownMenuLink" },
                         React.createElement(
                             "a",
-                            { id: "nav-bar-about", "class": "dropdown-item", href: "about.php" },
+                            { id: "nav-bar-about", "class": "dropdown-item", href: "about.html" },
                             "About Us"
                         ),
                         React.createElement(
                             "a",
-                            { id: "nav-bar-contact", "class": "dropdown-item", href: "contact.php" },
+                            { id: "nav-bar-contact", "class": "dropdown-item", href: "contact.html" },
                             "Contact Us"
                         ),
                         React.createElement(
                             "a",
-                            { id: "nav-bar-officers", "class": "dropdown-item", href: "officers.php" },
+                            { id: "nav-bar-officers", "class": "dropdown-item", href: "officers.html" },
                             "Officers"
                         )
                     )
