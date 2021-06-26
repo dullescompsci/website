@@ -1,0 +1,12 @@
+.Footer {
+  text-align: center;
+  background-color: #343a40;
+}
+.Footer-copyright {
+  padding: 16px;
+  color: #f8f9fa;
+}
+.Footer-message {
+  padding: 2px;
+  color: #6c757d;
+}

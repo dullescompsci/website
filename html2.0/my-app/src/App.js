@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Footer from './Footer'
 
-function App() {
+function App(props) {
+const page = props.page;
+  if (page.normalize() === "home")
   return (
     <div className="App">
       <header className="App-header">
@@ -18,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Footer />
     </div>
   );
 }
