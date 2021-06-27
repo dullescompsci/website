@@ -13,7 +13,6 @@ function NavBar(props) {
 
           <div>
             <ul class="navbar-nav ml-auto">
-
                 <Link class="nav-link" to="/">
                   Home
                   <span class="sr-only">(current)</span>
