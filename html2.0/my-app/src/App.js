@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { NavBar, Footer, Home, About, Contact } from "./components";
+import { Header, Footer, Home, AboutUs, Contact, Officers, News } from "./components";
 //import logo from './logo.svg';
 import './App.css';
 
@@ -8,11 +8,13 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <NavBar pathname="/" />
+        <Header path="/" />
         <Switch>
           <Route path="/" exact component={() => <Home />} />
-          <Route path="/about" exact component={() => <About />} />
+          <Route path="/aboutus" exact component={() => <AboutUs />} />
           <Route path="/contact" exact component={() => <Contact />} />
+          <Route path="/officers" exact component={() => <Officers />} />
+          <Route path="/news" exact component={() => <News />} />
         </Switch>
         <Footer />
       </Router>
