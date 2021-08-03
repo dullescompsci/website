@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Header, Footer, Home, AboutUs, Contact, Officers, News } from "./components";
-//import logo from './logo.svg';
+import { Header, Footer, Home, Officers, News, Resources, Slides, Handouts  } from "./components";
 import './App.css';
+
 
 function App() {
   return (
@@ -11,10 +11,11 @@ function App() {
         <Header path="/" />
         <Switch>
           <Route path="/" exact component={() => <Home />} />
-          <Route path="/aboutus" exact component={() => <AboutUs />} />
-          <Route path="/contact" exact component={() => <Contact />} />
           <Route path="/officers" exact component={() => <Officers />} />
           <Route path="/news" exact component={() => <News />} />
+          <Route path="/resources" exact component={()=> <Resources />} />
+          <Route path="/slides" exact component={()=> <Slides />} />
+          <Route path="/handouts" exact component={()=> <Handouts />} />
         </Switch>
         <Footer />
       </Router>

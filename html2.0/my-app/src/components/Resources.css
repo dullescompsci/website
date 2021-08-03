@@ -1,0 +1,42 @@
+img{
+    width: auto;
+    height: auto;
+}
+h1{
+    font-family: "Bebas Neue", cursive;
+    font-size: 60px;
+}
+
+.resourcesTitle1{
+    font-family: "Bebas Neue", cursive;
+}
+
+.resourcesTitle2{
+    font-family: "Bebas Neue", cursive;
+}
+
+.resourcesTitle3{
+    font-family: "Bebas Neue", cursive;
+}
+
+.button{
+    background-color: darkred !important;
+}
+
+.buttonFont{
+    font-family: "Bebas Neue", cursive;
+    font-size: 17.5px;
+    background-color: darkred;
+    color: white;
+    margin: 20px 20px 20px 20px;
+    padding: 10px;
+    width: 75px;
+    height: 60px;
+
+}
+
+.pdf{
+    width: 640;
+    height: 480;
+}
+

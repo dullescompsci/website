@@ -21,11 +21,8 @@ function Header(props) {
                     <Link class="headertext" to="/resources">
                         Resources
                     </Link>
-                    <Link class="headertext" to="/archive">
-                        Archive
-                    </Link>
-                    <Link class="headertext" to="/about">
-                            About Us
+                    <Link class="headertext" to="/officers">
+                        Officers
                     </Link>
                 </div>
             </nav>

@@ -1,8 +1,8 @@
 import React from "react";
 
-function Contact() {
+function Slides() {
   return (
-    <div className="contact">
+    <div className="officers">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
@@ -13,7 +13,7 @@ function Contact() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Contact</h1>
+            <h1 class="font-weight-light">Slides</h1>
             <p>
               Contact Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
@@ -27,4 +27,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Slides;
