@@ -1,3 +1,5 @@
+//VIKAS add newsimg at the top underneath title
+
 import React from "react";
 
 function News() {
