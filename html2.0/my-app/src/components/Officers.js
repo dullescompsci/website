@@ -11,6 +11,15 @@ function Officers() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Officers</h1>
             </div>
+
+                  <div>
+                    <img
+                      class="coolimg"
+                      src="officerimage.png"
+                      alt=""
+                    />
+                  </div>
+
                   <div class="row">
                       <img src="dullescs.png" class="officerImgLeft"/>
                       <p class="officerTextRight">

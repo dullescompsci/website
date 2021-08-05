@@ -2,7 +2,7 @@ import React from "react";
 
 function Handouts() {
   return (
-    <div className="officers">
+    <div className="handouts">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">

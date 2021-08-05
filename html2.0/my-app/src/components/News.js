@@ -7,15 +7,17 @@ function News() {
     <div className="news">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
+          <div class="col-lg-5">
+            <h1 class="font-weight-light">News</h1>
+          </div>
+          <div>
             <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              class="coolimg"
+              src="newsimage.png"
               alt=""
             />
           </div>
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">News</h1>
+          <div>
             <p>
               Contact Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
