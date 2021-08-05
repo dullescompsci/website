@@ -5,22 +5,23 @@ import Instagram from '@material-ui/icons/Instagram';
 import GitHub from '@material-ui/icons/GitHub';
 import Email from '@material-ui/icons/Email';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
+import './Footer.css';
 
 
 const useStyles = makeStyles({
   root: {
     width: '100%',
-    backgroundColor: "#4c0808"
+        backgroundColor: "#121212"
   },
 });
 
 const navTheme = createMuiTheme({
   palette: {
       primary: {
-          main: '#ffffff'
+          main: '#FFFFFF'
       },
       text: {
-          secondary: '#ffffff'
+          secondary: '#FFFFFF'
       }
   }
 })

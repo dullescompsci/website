@@ -2,37 +2,49 @@ img{
     width: auto;
     height: auto;
 }
-h1{
+.darktheme {
+    background-color: #1F1B24;
+    color: white;
+}
+h1, h2, h3{
     font-family: "Bebas Neue", cursive;
     font-size: 60px;
 }
-
-.resourcesTitle1{
+p {
     font-family: "Bebas Neue", cursive;
+    color: white;
+}
+.resourcesTitle {
+    font-family: "Bebas Neue", cursive;
+    color: white;
+    background-color: #13151D;
+}
+.resourcesAccordian {
+    font-family: "Bebas Neue", cursive;
+    background-color: #13151D;
+}
+.accordianDetails {
+    font-family: "Bebas Neue", cursive;
+    background-color: #13151D;
+}
+.accordianSummary {
+    font-family: "Bebas Neue", cursive;
+    background-color: #13151D;
 }
 
-.resourcesTitle2{
-    font-family: "Bebas Neue", cursive;
-}
-
-.resourcesTitle3{
-    font-family: "Bebas Neue", cursive;
-}
-
-.button{
+.button {
     background-color: darkred !important;
 }
 
-.buttonFont{
+.buttonFont {
     font-family: "Bebas Neue", cursive;
     font-size: 17.5px;
-    background-color: darkred;
+    background-color: #1F1B24;
     color: white;
     margin: 20px 20px 20px 20px;
     padding: 10px;
     width: 75px;
     height: 60px;
-
 }
 
 .pdf{

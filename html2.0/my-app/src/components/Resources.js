@@ -8,19 +8,20 @@ import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
 import Typography from '@material-ui/core/Typography';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-import Iframe from 'react-iframe'
+//import Iframe from 'react-iframe'
 import Pdf from "../../src/DHS_CS_Club_Problem_Set_0.pdf"
 
 const useStyles = makeStyles((theme) => ({
   root: {
     width: '50%',
-    backgroundColor: 'darkred'
+        backgroundColor: '#121212'
 
   },
   heading: {
     fontSize: theme.typography.pxToRem(15),
-    fontWeight: theme.typography.fontWeightRegular,
-  },
+      fontWeight: theme.typography.fontWeightRegular,
+      backgroundColor: '#1F1B24'
+    },
 }));
 
 function Resources() {
@@ -43,7 +44,7 @@ function Resources() {
   // }
 
   return (
-    <div className="resources">
+    <div className="resources" class="darktheme">
       <div class="container">
         <div class="row align-items-center my-5">
         <div class="col-lg-12">
@@ -91,15 +92,16 @@ function Resources() {
             <button onClick={handoutsClick} class="buttonFont">Handouts</button>
           </div>
 
-          <Accordion >
+          <Accordion class="resourcesAccordian">
             <AccordionSummary
               expandIcon={<ExpandMoreIcon />}
               aria-controls="panel1a-content"
-              id="panel1a-header"
+                          id="panel1a-header"
+                          class="accordianSummary"
             >
-          <Typography className={classes.heading} class="resourcesTitle1">Websites to Practice</Typography>
+          <Typography className={classes.heading} class="resourcesTitle">Websites to Practice</Typography>
           </AccordionSummary>
-            <AccordionDetails>
+          <AccordionDetails class="accordianDetails">
               <Typography>
               <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
               <br></br>
@@ -108,15 +110,16 @@ function Resources() {
             </AccordionDetails>
           </Accordion>
 
-      <Accordion>
+      <Accordion class="resourcesAccordian">
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
-          id="panel2a-header"
+                          id="panel2a-header"
+                          class="accordianSummary"
         >
-          <Typography className={classes.heading} class="resourcesTitle2">Learning CP</Typography>
+          <Typography className={classes.heading} class="resourcesTitle">Learning CP</Typography>
         </AccordionSummary>
-        <AccordionDetails>
+        <AccordionDetails class="accordianDetails">
           <Typography>
           <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
           <br></br>
@@ -125,15 +128,16 @@ function Resources() {
         </AccordionDetails>
       </Accordion>
 
-      <Accordion>
+      <Accordion class="resourcesAccordian">
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel2a-content"
-          id="panel2a-header"
+                          id="panel2a-header"
+                          class="accordianSummary"
         >
-          <Typography className={classes.heading} class="resourcesTitle3">Extra Resources</Typography>
+          <Typography className={classes.heading} class="resourcesTitle">Extra Resources</Typography>
         </AccordionSummary>
-        <AccordionDetails>
+        <AccordionDetails class="accordianDetails">
           <Typography>
           <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
           <br></br>

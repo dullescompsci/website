@@ -1,7 +1,7 @@
 .headertext {
     font-family: "Bebas Neue", cursive;
     color: #fff;
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -10,11 +10,11 @@
     cursor: pointer;
 }
 .headertext:active {
-    color: #000;
+    color: #808080;
 }
 .navbar {
-    background: #4c0808;
-    height: 80px;
+    background: #121212;
+    height: 60px;
     display: flex;
     padding: 0.5rem calc((100vw - 1000px) / 2);
     z-index: 10;
