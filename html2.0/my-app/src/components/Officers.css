@@ -1,0 +1,97 @@
+.officerImgLeft {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-left: 10vw;
+    margin-bottom: 2vh;
+}
+.officerImgRight {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-right: 10vw;
+    margin-bottom: 2vh;
+}
+.officerImgCenter {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-bottom: 2vh;
+}
+
+.officerTextLeft {
+    float: left;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    font-size: 1.5vw;
+}
+.officerTextRight {
+    float: right;
+    margin-right: 10vw;
+    margin-top: 10vh;
+    font-size: 1.5vw;
+}
+
+.officerTextCenter {
+    margin-right: 10vw;
+    margin-left: 10vw;
+    margin-bottom: 2vh;
+}
+.row {
+    overflow: hidden;
+}
+.row p {
+    display: block;
+}
+
+.officerImgLeftX {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-left: 10vw;
+}
+
+.officerImgRightX {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-right: 10vw;
+}
+
+.officerImgCenterX {
+    float: none;
+    border-radius: 50%;
+    width: 15vw;
+    max-width: 100%;
+    margin-left: 12vw;
+    margin-right: 12vw;
+}
+
+.officerTextLeftX {
+    display: block;
+    float: left;
+    margin-left: 10vw;
+    width: 25%;
+}
+
+.officerTextCenterX {
+    margin-left: 4vw;
+    margin-right: 4vw;
+    width: 100%;
+}
+.officerTextRightX {
+    display: block;
+    float: right;
+    width: 25%;
+    margin-right: 10vw;
+}
+
+
+
