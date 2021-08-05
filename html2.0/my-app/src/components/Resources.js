@@ -3,11 +3,13 @@ import { useHistory } from "react-router-dom";
 import "./Resources.css"
 import ReactGoogleSlides from "react-google-slides";
 import { makeStyles } from '@material-ui/core/styles';
-import Accordion from '@material-ui/core/Accordion';
-import AccordionSummary from '@material-ui/core/AccordionSummary';
-import AccordionDetails from '@material-ui/core/AccordionDetails';
+import MuiAccordion from '@material-ui/core/Accordion';
+import MuiAccordionSummary from '@material-ui/core/AccordionSummary';
+import MuiAccordionDetails from '@material-ui/core/AccordionDetails';
 import Typography from '@material-ui/core/Typography';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import MuiExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import { Button } from '@material-ui/core';
+import { withStyles } from '@material-ui/core/styles';
 //import Iframe from 'react-iframe'
 import Pdf from "../../src/DHS_CS_Club_Problem_Set_0.pdf"
 
@@ -23,6 +25,75 @@ const useStyles = makeStyles((theme) => ({
       backgroundColor: '#1F1B24'
     },
 }));
+
+const StyledButton = withStyles({
+    root: {
+        background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
+        borderRadius: 3,
+        border: 0,
+        color: 'white',
+        height: 48,
+        padding: '0 30px',
+        boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
+    },
+    label: {
+        textTransform: 'capitalize',
+    },
+})(Button);
+
+const Accordion = withStyles({
+    root: {
+        border: '1px solid rgba(0, 0, 0, .125)',
+        boxShadow: 'none',
+        borderRadius: '30px 0px 30px 0',
+        backgroundColor: '#13151D',
+        color: '000000',
+        '&:not(:last-child)': {
+            borderBottom: 0,
+        },
+        '&:before': {
+            display: 'none',
+        },
+        '&$expanded': {
+            margin: 'auto',
+        },
+    },
+    expanded: {},
+})(MuiAccordion);
+
+const AccordionSummary = withStyles({
+    root: {
+        backgroundColor: '#13151D',
+        borderBottom: '1px solid backgroundColor: #13151D',
+        marginBottom: -1,
+        borderRadius: '30px 0px 30px 0',
+        minHeight: 56,
+        '&$expanded': {
+            minHeight: 56,
+        },
+    },
+    content: {
+        '&$expanded': {
+            backgroundColor: '#13151D',
+            margin: '12px 0',
+        },
+    },
+    expanded: { backgroundColor: '#13151D'},
+})(MuiAccordionSummary);
+const ExpandMoreIcon = withStyles((theme) => ({
+    root: {
+        padding: theme.spacing(2),
+        color: 'FFFFFF',
+    },
+}))(MuiExpandMoreIcon);
+
+const AccordionDetails = withStyles((theme) => ({
+    root: {
+        backgroundColor: '#13151D',
+        padding: theme.spacing(2),
+        color: '000000',
+    },
+}))(MuiAccordionDetails);
 
 function Resources() {
 
@@ -88,13 +159,13 @@ function Resources() {
 
           <div>
           <h3>Want to see previous slides and handouts?</h3>
-            <button onClick={slideClick} class="buttonFont">Slides</button>
-            <button onClick={handoutsClick} class="buttonFont">Handouts</button>
+            <StyledButton variant="contained" color="secondary" size="large" onClick={slideClick}>Slides</StyledButton>
+            <StyledButton variant="contained" color="primary" size ="large" onClick={handoutsClick}>Handouts</StyledButton>
           </div>
 
           <Accordion class="resourcesAccordian">
             <AccordionSummary
-              expandIcon={<ExpandMoreIcon />}
+                          expandIcon={<ExpandMoreIcon style={{ color: "white" }}/>}
               aria-controls="panel1a-content"
                           id="panel1a-header"
                           class="accordianSummary"
@@ -112,7 +183,7 @@ function Resources() {
 
       <Accordion class="resourcesAccordian">
         <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
+                          expandIcon={<ExpandMoreIcon style={{ color: "white" }}/>}
           aria-controls="panel2a-content"
                           id="panel2a-header"
                           class="accordianSummary"
@@ -130,7 +201,7 @@ function Resources() {
 
       <Accordion class="resourcesAccordian">
         <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
+                          expandIcon={<ExpandMoreIcon style={{ color: "white" }}/>}
           aria-controls="panel2a-content"
                           id="panel2a-header"
                           class="accordianSummary"

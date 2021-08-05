@@ -14,24 +14,6 @@ p {
     font-family: "Bebas Neue", cursive;
     color: white;
 }
-.resourcesTitle {
-    font-family: "Bebas Neue", cursive;
-    color: white;
-    background-color: #13151D;
-}
-.resourcesAccordian {
-    font-family: "Bebas Neue", cursive;
-    background-color: #13151D;
-}
-.accordianDetails {
-    font-family: "Bebas Neue", cursive;
-    background-color: #13151D;
-}
-.accordianSummary {
-    font-family: "Bebas Neue", cursive;
-    background-color: #13151D;
-}
-
 .button {
     background-color: darkred !important;
 }
@@ -52,3 +34,6 @@ p {
     height: 480;
 }
 
+.materialExpandMore {
+    color: white;
+}
