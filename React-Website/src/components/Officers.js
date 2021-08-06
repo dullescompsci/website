@@ -41,19 +41,13 @@ function Officers() {
                   <div class="row">
                       <img src="vice_President_1.png" class="officerImgLeft" />
                       <p class="officerTextRight">
-                          Contact Ipsum is simply dummy text of the printing and typesetting
-                          industry. Lorem Ipsum has been the industry's standard dummy text
-                          ever since the 1500s, when an unknown printer took a galley of
-                          type and scrambled it to make a type specimen book.
+                          My name is Amogha Pokkulandra, affectionately known as "Big Amoghers". I like coding and mobile games because I am broke and have no PC. Do refrain from making any amogus references in my vicinity. POGCHAMP!!!
                 </p>
                   </div>
                   <div class="row">
                       <img src="vice_President_2.png" class="officerImgRight" />
                       <p class="officerTextLeft">
-                          Contact Ipsum is simply dummy text of the printing and typesetting
-                          industry. Lorem Ipsum has been the industry's standard dummy text
-                          ever since the 1500s, when an unknown printer took a galley of
-                          type and scrambled it to make a type specimen book.
+                          My last name is misspelled.
                 </p>
                   </div><div class="row">
                       <img src="secretary.png" class="officerImgLeft" />
@@ -86,13 +80,10 @@ function Officers() {
                           ever since the 1500s, when an unknown printer took a galley of
                           type and scrambled it to make a type specimen book.
                 </p><p class="officerTextRightX">
-                          Contact Ipsum is simply dummy text of the printing and typesetting
-                          industry. Lorem Ipsum has been the industry's standard dummy text
-                          ever since the 1500s, when an unknown printer took a galley of
-                          type and scrambled it to make a type specimen book.
+                          A Big Mango Potato.<br/>No seriously, he asked for this.
                 </p>
                       <p class="officerTextCenterX">
-                          A Big Mango Potato. No seriously, he asked for this.
+                          Insert Here.
                 </p>
                       
 
