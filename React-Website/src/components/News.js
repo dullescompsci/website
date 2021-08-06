@@ -1,11 +1,13 @@
 //VIKAS add newsimg at the top underneath title
 
 import React from "react";
+import Iframe from "react-iframe"
 import './News.css';
 
 function News() {
-  return (
-    <div className="news">
+    return (
+
+        <div className="news">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-5">
@@ -18,25 +20,37 @@ function News() {
               alt=""
             />
           </div>
-          <div>
+                  <div>
                       <h3>
-                          General Announcements
+                            General Announcements
                       </h3>
-                      <ul>
-                          <li>FISH Camp on August 7th, 2021</li>
+                        <ul>
                           <li>Dues - Undecided</li>
                           <li>How to Join:
-                              <ul>
                                   <li>Remind: Text @dhscs22 to 81010 or enter code dhscs22 in the Remind App</li>
                                   <li>Check our website here, at... Oh wait you're already here.</li>
-                              </ul>
-                          </li>
-                      </ul>
-          </div>
+                            </li>
+                            </ul>
+                      <h3>
+                          Upcoming Contests
+                      </h3>
+                      <ul>
+                          <li>None at the moment, stay tuned for more!</li>
+                        </ul>
+                        <h3>Calender</h3>
+                        <iframe src="https://calendar.zoho.com/zc/ui/embed/#calendar=f5068150cae25eb1ba30b4612c0994f895da9af9473186480807dd7558f579e095a63f1e392ce41f65b4f0d354fa3aea&title=dullescomputerscience&type=6&language=en&timezone=America%2FChicago&showTitle=1&showTimezone=1&color=1"></iframe>
+                        <h3>
+                            Remind Feed
+                      </h3>
+                        <div class="container">
+                            <iframe src="https://widgets.remind.com/widget?token=c7f17b30be7f0139bcd60242ac110039&height=500&join=true"></iframe>
+                        </div>
+                    </div>
         </div>
       </div>
     </div>
   );
+
 }
 
 export default News;

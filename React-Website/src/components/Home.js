@@ -31,9 +31,7 @@ function Home() {
             <h1> </h1>
           </div>
         </div>
-        <ReactGoogleSlides
-      width={640}
-      height={480}
+              <ReactGoogleSlides
       slidesLink="https://docs.google.com/presentation/d/1s5DT5ynZxqoZ4zE2OzgYYSljyG17dtqyN68ya93b_Mg/edit?usp=sharing"
       slideDuration={5}
       position={1}
