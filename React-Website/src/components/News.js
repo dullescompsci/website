@@ -26,7 +26,10 @@ function News() {
                           <li>FISH Camp on August 7th, 2021</li>
                           <li>Dues - Undecided</li>
                           <li>How to Join:
-                              <ul></ul>
+                              <ul>
+                                  <li>Remind: Text @dhscs22 to 81010 or enter code dhscs22 in the Remind App</li>
+                                  <li>Check our website here, at... Oh wait you're already here.</li>
+                              </ul>
                           </li>
                       </ul>
           </div>
