@@ -8,7 +8,7 @@ function Header(props) {
             <nav class="navbar">
                 <div class="logo headertext">
                     <Link class="left" to="/">
-                        <img src="Capture.svg" alt="The logo, duh"></img>
+                        <img src="https://raw.githubusercontent.com/dullescompsci/website/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/Capture.svg" alt="The logo, duh"></img>
                     </Link>
                 </div>
                 <div class="navmenu">

@@ -27,9 +27,9 @@ const navTheme = createMuiTheme({
 })
 
 export default function SimpleBottomNavigation() {
-  
+
   const classes = useStyles();
-  
+
   return (
     <ThemeProvider theme = {navTheme}>
       <BrowserRouter>
@@ -39,7 +39,7 @@ export default function SimpleBottomNavigation() {
         className={classes.root}
         >
           <BottomNavigationAction label=" © 2021 Dulles CS "/>
-          <BottomNavigationAction icon={<Email />} /> 
+          <BottomNavigationAction icon={<Email />} />
           <BottomNavigationAction icon={<Instagram />} component = {Link} to={"/route2"}/>
           <BottomNavigationAction icon={<GitHub />} component = {Link} to={"/route3"}/>
           </BottomNavigation>
@@ -70,6 +70,6 @@ export default function SimpleBottomNavigation() {
   </BrowserRouter>
 </ThemeProvider>
   );
- 
+
 }
 

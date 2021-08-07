@@ -11,7 +11,7 @@ import MuiExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { Button } from '@material-ui/core';
 import { withStyles } from '@material-ui/core/styles';
 //import Iframe from 'react-iframe'
-import Pdf from "../../src/DHS_CS_Club_Problem_Set_0.pdf"
+import Pdf from "../../src/DHS_CS_Club_Problem_Set_0.pdf" // todo: replace this with a cdn url instead to save bandwidth
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -102,16 +102,16 @@ function Resources() {
 
   const slideClick = () => {
     history.push("/slides");
-    
+
   }
 
   const handoutsClick = () => {
     history.push("/handouts");
-    
+
   }
 
   // const pdfClick = () => {
-    
+
   // }
 
   return (
@@ -126,7 +126,7 @@ function Resources() {
             <div class="col-lg-6">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="resourcesimage.jpg"
+              src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/resourcesimage.jpg?raw=true" // this is jpg when rest are png?
               alt=""
             />
           </div>
@@ -147,8 +147,8 @@ function Resources() {
 
           <div>
             <h1> </h1>
-            <iframe 
-            src={Pdf} 
+            <iframe
+            src={Pdf}
             width="600px"
             height="500px"
             allowFullScreen
@@ -213,7 +213,7 @@ function Resources() {
           <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
           <br></br>
           <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
-          
+
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -221,7 +221,7 @@ function Resources() {
         </div>
       </div>
     </div>
-    
+
   );
 }
 

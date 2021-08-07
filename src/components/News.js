@@ -16,7 +16,7 @@ function News() {
           <div class="col-lg-5">
             <img
               class="coolimg"
-              src="newsimage.png"
+              src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/newsimage.png?raw=true"
               alt=""
             />
           </div>

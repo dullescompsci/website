@@ -17,16 +17,16 @@ function Home() {
             <div class="col-lg-6">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="dullescs.png"
+              src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/dullescs.png?raw=true"
               alt=""
             />
           </div>
           <h1> </h1>
           <h2>About Us</h2>
             <p>
-             Welcome to Dulles Computer Science! We are a student led club based in Dulles High School. 
-             Here our members learn life long coding skills from a wide variety of languages, participate in coding competitions, and most importantlly have fun with their friends while coding. 
-             We welcome anyone interested to join and, we strive to keep a positive enviornment for our members.  
+             Welcome to Dulles Computer Science! We are a student led club based in Dulles High School.
+             Here our members learn life long coding skills from a wide variety of languages, participate in coding competitions, and most importantlly have fun with their friends while coding.
+             We welcome anyone interested to join and, we strive to keep a positive enviornment for our members.
             </p>
             <h1> </h1>
           </div>
@@ -40,7 +40,7 @@ function Home() {
     />
       </div>
     </div>
-    
+
   );
 }
 

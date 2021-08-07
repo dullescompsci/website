@@ -15,13 +15,13 @@ function Officers() {
                   <div>
                     <img
                       class="coolimg"
-                      src="officerimage.png"
+                      src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/officerimage.png?raw=true"
                       alt=""
                     />
                   </div>
 
                   <div class="row">
-                      <img src="president_1.png" class="officerImgLeft"/>
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/vice_President_1.png?raw=true" class="officerImgLeft"/>
                       <p class="officerTextRight">
                           They called me a madman. And then they called me Viking the Totem Pole. <br />
                           At least I'm the mascot, I thought, but then they replaced me with a statue out front<br />
@@ -29,44 +29,44 @@ function Officers() {
                 </p>
                   </div>
                   <div class="row">
-                      <img src="president_2.png" class="officerImgRight" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/president_2.png?raw=true" class="officerImgRight" />
                       <p class="officerTextLeft">
                           Guys, I think Farmer John set a trap for m... YO! A PIECE OF HAY! <br />
                           - Sahil Chowdhury, Co-president
                 </p>
                   </div>
                   <div class="row">
-                      <img src="vice_President_1.png" class="officerImgLeft" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/vice_President_1.png?raw=true" class="officerImgLeft" />
                       <p class="officerTextRight">
                           My name is Amogha Pokkulandra, affectionately known as "Big Amoghers". I like coding and mobile games because I am broke and have no PC. Do refrain from making any amogus references in my vicinity. POGCHAMP!!! <br />
                           - Amogha Pokkuandra, Vice President
                 </p>
                   </div>
                   <div class="row">
-                      <img src="vice_President_2.png" class="officerImgRight" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/vice_president_2.png?raw=true" class="officerImgRight" />
                       <p class="officerTextLeft">
                           My last name is misspelled. <br />
                           - Dylan You, Vice President
                 </p>
                   </div><div class="row">
-                      <img src="secretary.png" class="officerImgLeft" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/secretary.png?raw=true" class="officerImgLeft" />
                       <p class="officerTextRight">
                           Quote didn't make it in time :( <br />
                           - Suhani Goswami, Secretary
                 </p>
                   </div>
                   <div class="row">
-                      <img src="historian.png" class="officerImgRight" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/historian.png?raw=true" class="officerImgRight" />
                       <p class="officerTextLeft">
                           Quote didn't make it in time :( <br />
                           - Rishindra Davuluri, Historian
                 </p>
                   </div>
                   <div class="row">
-                      <img src="novice_Coach_1.png" class="officerImgLeftX" />
-                      <img src="novice_Coach_2.png" class="officerImgCenterX" />
-                      <img src="advanced_Coach_1.png" class="officerImgRightX" />
-                     
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/novice_Coach_1.png?raw=true" class="officerImgLeftX" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/novice_Coach_2.png?raw=true" class="officerImgCenterX" />
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/advanced_Coach_1.png?raw=true" class="officerImgRightX" />
+
                   </div>
                   <div class="row">
                       <p class="officerTextLeftX">
@@ -80,7 +80,7 @@ function Officers() {
                           Quote didn't make it in time :( <br />
                           - Athulya Saravanakumar, Novice Coach
                 </p>
-                      
+
 
                   </div>
         </div>
