@@ -7,6 +7,8 @@
 git fetch
 git pull origin ReactJs --force
 
+npm install
+
 # [Re]build website
 rm -rf build
 cd src
