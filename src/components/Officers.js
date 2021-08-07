@@ -21,10 +21,11 @@ function Officers() {
                   </div>
 
                   <div class="row">
-                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/vice_President_1.png?raw=true" class="officerImgLeft"/>
+                      <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/president_1.png?raw=true" class="officerImgLeft"/>
                       <p class="officerTextRight">
-                          They called me a madman. And then they called me Viking the Totem Pole. <br />
-                          At least I'm the mascot, I thought, but then they replaced me with a statue out front<br />
+                          Ohayo, my name is Vikas Thoutam, affectionately known as "Thiccas", though I am quite unthicc as you can see.
+                          I am actually a chad C++ enjoyer, and not an average Java fan.
+                          Just in case you were wondering, my favorite waifu is Rin Tohsaka from the Fate series. You're welcome.<br />
                           - Vikas Thoutam, Co-president
                 </p>
                   </div>
