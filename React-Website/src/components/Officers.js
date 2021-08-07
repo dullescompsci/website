@@ -71,7 +71,7 @@ function Officers() {
                   <div class="row">
                       <p class="officerTextLeftX">
                           Quote didn't make it in time :( <br />
-                          - Soham (Insert Last Name Here, I'm sorry), Novice Coach
+                          - Videet Mehta, Novice Coach
                 </p><p class="officerTextRightX">
                           A Big Mango Potato.<br />No seriously, he asked for this.<br />
                           - Rushil Shah, Advanced Coach
