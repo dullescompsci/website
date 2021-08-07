@@ -1,0 +1,13 @@
+[Unit]
+Description=Dulles Computer Science Website Server (reactjs)
+After=network.target
+
+[Service]
+ExecStart=/bin/bash ./start-prod.sh
+WorkingDirectory=/var/www/dullescomputerscience.club-new/
+Restart=no
+User=administrator
+
+[Install]
+WantedBy=multi-user.target
+
