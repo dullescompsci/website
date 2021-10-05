@@ -137,7 +137,7 @@ function Resources() {
             <ReactGoogleSlides
               width={640}
               height={480}
-              slidesLink="https://docs.google.com/presentation/d/1z_0Z0rfNzn0okJWKPZRLCo8Xos9qY8YTrcbpcbrqFk0/edit?usp=sharing"
+                          slidesLink="https://docs.google.com/presentation/d/1gnZJ5d91SVy6nBguNKIc-b2gd2PosvZTm0riCxNb57U/edit?usp=sharing"
               position={1}
               showControls
               loop
@@ -174,9 +174,8 @@ function Resources() {
           </AccordionSummary>
           <AccordionDetails class="accordianDetails">
               <Typography>
-              <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
-              <br></br>
-              <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
+                              <a href="https://docs.google.com/spreadsheets/d/1PpzneHAxj1c-TFV8BQeDA86nEUi96XU1GKl4NACSUlI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Club Resources</a>
+                              <br></br>
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -192,9 +191,8 @@ function Resources() {
         </AccordionSummary>
         <AccordionDetails class="accordianDetails">
           <Typography>
-          <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
-          <br></br>
-          <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
+                              <a href="https://docs.google.com/spreadsheets/d/1PpzneHAxj1c-TFV8BQeDA86nEUi96XU1GKl4NACSUlI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Club Resources</a>
+                              <br></br>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -210,9 +208,8 @@ function Resources() {
         </AccordionSummary>
         <AccordionDetails class="accordianDetails">
           <Typography>
-          <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
+                              <a href="https://docs.google.com/spreadsheets/d/1PpzneHAxj1c-TFV8BQeDA86nEUi96XU1GKl4NACSUlI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Club Resources</a>
           <br></br>
-          <a href="https://www.w3schools.com" target="_blank" rel="noopener noreferrer">Visit W3Schools</a>
 
           </Typography>
         </AccordionDetails>

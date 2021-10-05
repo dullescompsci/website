@@ -15,10 +15,7 @@ function Slides() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Slides</h1>
             <p>
-              Contact Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. erica wuz here xd
+                          <a href="https://docs.google.com/presentation/d/1JfilWHikUXX89_xIdAFL7KIzwLWjgkQzu4lyguiwRCs/edit?usp=sharing">Week 1 Slides : Printing, Data Types, and Math Methods</a>
             </p>
           </div>
         </div>
