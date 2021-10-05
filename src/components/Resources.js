@@ -11,7 +11,7 @@ import MuiExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { Button } from '@material-ui/core';
 import { withStyles } from '@material-ui/core/styles';
 //import Iframe from 'react-iframe'
-import Pdf from "../../src/DHS_CS_Club_Problem_Set_0.pdf" // todo: replace this with a cdn url instead to save bandwidth
+//import Pdf from "DHS_CS_Club_Problem_Set_0.pdf" // todo: replace this with a cdn url instead to save bandwidth
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -148,7 +148,7 @@ function Resources() {
           <div>
             <h1> </h1>
             <iframe
-            src={Pdf}
+            src={"DHSCS-arrays.pdf"}
             width="600px"
             height="500px"
             allowFullScreen
