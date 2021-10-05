@@ -37,7 +37,7 @@ function News() {
                       <ul>
                           <li>None at the moment, stay tuned for more!</li>
                         </ul>
-                        <h3>Calender</h3>
+                        <h3>Calendar</h3>
                         <iframe src="https://calendar.zoho.com/zc/ui/embed/#calendar=f5068150cae25eb1ba30b4612c0994f895da9af9473186480807dd7558f579e095a63f1e392ce41f65b4f0d354fa3aea&title=dullescomputerscience&type=6&language=en&timezone=America%2FChicago&showTitle=1&showTimezone=1&color=1"></iframe>
                         <h3>
                             Remind Feed
