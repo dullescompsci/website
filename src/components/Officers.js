@@ -23,7 +23,7 @@ function Officers() {
                   <div class="row">
                       <img src="https://github.com/dullescompsci/website/blob/4cea4bc66e8d2d11fca27e3f64ecd0e7174ee267/public/president_1.png?raw=true" class="officerImgLeft"/>
                       <p class="officerTextRight">
-                          Ohayo, my name is Vikas Thoutam, affectionately known as "Thiccas", though I am quite unthicc as you can see.
+                          Yo, my name is Vikas Thoutam, affectionately known as "Vikachu".
                           I am actually a chad C++ enjoyer, and not an average Java fan.
                           Just in case you were wondering, my favorite waifu is Rin Tohsaka from the Fate series. You're welcome.<br />
                           - Vikas Thoutam, Co-president
