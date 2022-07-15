@@ -1,0 +1,13 @@
+[Unit]
+Description=Dulles Computer Science Website Server (PHP)
+After=network.target
+
+[Service]
+ExecStart=/bin/bash ./start-website.sh
+WorkingDirectory=/var/www/dullescomputerscience.club/
+Restart=no
+User=administrator
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,12 @@
+h3 {
+    font-size: 40px;
+}
+ul {
+    align-self: start;
+    justify-self: flex-end;
+}
+iframe {
+    height: 90vh;
+    width: 40vw;
+    border: none;
+}

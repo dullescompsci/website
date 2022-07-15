@@ -1,0 +1,39 @@
+img{
+    width: auto;
+    height: auto;
+}
+.darktheme {
+    background-color: #1F1B24;
+    color: white;
+}
+h1, h2, h3{
+    font-family: "Bebas Neue", cursive;
+    font-size: 60px;
+}
+p {
+    font-family: "Bebas Neue", cursive;
+    color: white;
+}
+.button {
+    background-color: darkred !important;
+}
+
+.buttonFont {
+    font-family: "Bebas Neue", cursive;
+    font-size: 17.5px;
+    background-color: #1F1B24;
+    color: white;
+    margin: 20px 20px 20px 20px;
+    padding: 10px;
+    width: 75px;
+    height: 60px;
+}
+
+.pdf{
+    width: 640;
+    height: 480;
+}
+
+.materialExpandMore {
+    color: white;
+}
